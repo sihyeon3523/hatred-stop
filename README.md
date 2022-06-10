@@ -1,6 +1,6 @@
 ## 혐오 표현 탐지 모델 개발
 
-### django 시연
+### Django 시연
 ![web](https://user-images.githubusercontent.com/49083528/173006260-078f2f2c-69c1-4688-835a-64c6f9389b87.gif)
 
 
