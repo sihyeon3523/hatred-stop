@@ -16,7 +16,7 @@
 6. 모델 성능 비교
 7. Django 활용 시연 화면 개발 
 
-혐오 표현의 경우 "지111랄"과 같이 음절 단위로 표현된 경우가 많아, 음절 토큰화로 재 진행해 CNN 모델 적용하였다. 모델 예측 결과, 기존 토큰화 방식 Okt의 morchs과 비교했을 때 음절 토큰화 방식이 acc는 0.01 떨어졌으나, Precision, AUC, F1 score 에서 모두 좋은 성능을 보였다. 
+혐오 표현의 경우 "지111랄"과 같이 음절 단위로 표현된 경우가 많아, 카카오의 음절 토큰화로 재 진행해 CNN 모델 적용하였다. 모델 예측 결과, 기존 토큰화 방식 Okt의 morchs과 비교했을 때 음절 토큰화 방식이 acc는 0.01 떨어졌으나, Precision, AUC, F1 score 에서 모두 좋은 성능을 보였다. 
 
 - kakaobrain/kortok: <https://github.com/kakaobrain/kortok>
 
