@@ -52,3 +52,4 @@
 
 ## 분석 결과물 
 - [Django code](https://drive.google.com/file/d/1VgwxHWHEhLgGjPrzDrTCpi3n-qkRnY3G/view?usp=sharing)
+- [Presentation](https://drive.google.com/file/d/1QGBihiMJ7Yf2dJ3zlM-dCVZRbBHYt_89/view?usp=sharing)
