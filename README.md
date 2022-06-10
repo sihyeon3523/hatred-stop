@@ -50,4 +50,4 @@
   28,136건 
 
 ## 분석 결과물 
-[Django code](https://drive.google.com/file/d/1VgwxHWHEhLgGjPrzDrTCpi3n-qkRnY3G/view?usp=sharing)
+- [Django code](https://drive.google.com/file/d/1VgwxHWHEhLgGjPrzDrTCpi3n-qkRnY3G/view?usp=sharing)
