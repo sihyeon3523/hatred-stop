@@ -5,7 +5,7 @@
 > 욕설 뿐만 아니라 혐오 표현을 탐지하여 더 혐오 표현인 글을 우선 제거 대상으로 선정해 사이버불링 피해가 없는 안전한 온라인 공간을 만들기 위한 노력들의 보탬이 되고자 한다. 
 
 ## 서비스 시연
-![web](https://user-images.githubusercontent.com/49083528/173006260-078f2f2c-69c1-4688-835a-64c6f9389b87.gif)
+<img width="80%" src="https://user-images.githubusercontent.com/49083528/173006260-078f2f2c-69c1-4688-835a-64c6f9389b87.gif"/>
 
 ## 분석 과정 
 1. 혐오 표현 정의
